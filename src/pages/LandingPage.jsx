@@ -222,7 +222,7 @@ export default function LandingPage() {
           <div className="animate-reveal-left delay-200">
           <h1 className="mb-6 text-white" style={{ fontFamily: "'Outfit', sans-serif", fontSize: "clamp(3rem, 8vw, 5.5rem)", fontWeight: 900, lineHeight: 1.0, letterSpacing: "-0.04em" }}>
             <span className="block text-slate-400 font-semibold mb-2" style={{ fontSize: "clamp(1rem,2vw,1.25rem)", letterSpacing: "0.2em", textTransform: "uppercase", fontFamily: "'Plus Jakarta Sans',sans-serif" }}>
-              PredictX — Market Oracle
+              PredictX-Market Oracle
             </span>
             <span className="block glow-text">Spot Tomorrow's</span>
             <span className="block text-white">Trend <span className="aurora-text">Today</span></span>
@@ -230,7 +230,7 @@ export default function LandingPage() {
           </div>
 
           <p className="animate-fade-only delay-300 text-lg md:text-xl text-slate-400 max-w-2xl mx-auto mb-12 leading-relaxed" style={{ fontFamily: "'Plus Jakarta Sans',sans-serif" }}>
-            AI-powered market intelligence that predicts emerging trends using social media, news, Reddit &amp; search signals —
+            AI-powered market intelligence that predicts emerging trends using social media, news, Reddit &amp; search signals, <br />
             <span className="text-slate-200 font-semibold"> weeks before your competitors.</span>
           </p>
 
